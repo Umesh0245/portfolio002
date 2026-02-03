@@ -4,15 +4,15 @@
 @use 'sass:map';
 
 $theme-colors: (
-  default: (primary: #F5E6D3,
-    secondary: #FF2020,
-    shadow: #330000,
+  default: (primary: #FFFFFF,
+    secondary: #5B9BD5,
+    shadow: #102A43,
     white: #FFFFFF,
   ),
 
-  contrasted: (primary: #FF2020,
-    secondary: #F5E6D3,
-    shadow: #330000,
+  contrasted: (primary: #5B9BD5,
+    secondary: #FFFFFF,
+    shadow: #102A43,
     white: #FFFFFF,
   ),
 );
